@@ -1,0 +1,25 @@
+.header {
+  float: right;
+  padding: 0px 10px 10px 10px;
+}
+
+li {
+  display: inline;
+  margin: 10px;
+}
+
+li a:hover {
+  color: #111;
+}
+
+#sign-in {
+  color: white;
+  background:#2b7de9;
+  font-weight: bold;
+  padding: 6px;
+}
+
+.main {
+  text-align: center;
+  padding-top: 180px;
+}
