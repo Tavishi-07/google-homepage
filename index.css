@@ -25,6 +25,10 @@ li a:hover {
   
 }
 
+img {
+  width: 20px;
+}
+
 #logo {
   width: 350px;
   
